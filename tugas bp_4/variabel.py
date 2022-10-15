@@ -27,4 +27,3 @@ def total(sisi):
 
 def segitiga(alas,tinggi):
     return 0.5*alas*tinggi
-
