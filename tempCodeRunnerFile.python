@@ -60,4 +60,3 @@ j = False
 print (i,j)
 print (type(i))
 print (type(j))
-

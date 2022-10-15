@@ -1,0 +1,4 @@
+Apa yang dimaksud dengan variabel dan contohnya?
+Hasil gambar untuk pengertian variabel
+Variabel adalah setiap karakteristik, jumlah, atau kuantitas yang dapat diukur atau dihitung. Variabel juga bisa disebut item data. Usia, jenis kelamin, pendapatan dan pengeluaran bisnis, negara kelahiran, belanja modal, nilai kelas, warna mata dan jenis kendaraan adalah contoh variabel.
+Tipe data string adalah tipe data yang digunakan untuk menyimpan barisan karakter. Sebuah string umumnya dianggap sebagai tipe data dan sering diimplementasi sebagai struktur data array bita (atau kata) yang menyimpan urutan elemen, biasanya karakter, menggunakan beberapa pengkodean karakter.
